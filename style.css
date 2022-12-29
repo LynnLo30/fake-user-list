@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+
+i {
+  margin-right: 5px;
+}
+
+.user-avatar {
+  cursor: pointer;
+}
